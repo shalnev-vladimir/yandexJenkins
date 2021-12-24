@@ -28,7 +28,7 @@ public class CheckNameTest {
                 {"АлександрОвечкин", false},
                 {"Александр ОвечкинИБольше19Букв", false},
                 {"Ал", false},
-                {"ш ш в", false},
+                {"ш ш в в", false},
         };
     }
 
